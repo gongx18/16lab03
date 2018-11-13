@@ -30,8 +30,8 @@
    		ani_ct++; 
    }
    cout<<"Report for "<<argv[1]<<":"<<endl;
-   cout<<"Animal count:"<<ani_ct<<endl; 
-   cout<<"Duck count:"<<ct<<endl;
-   cout<<"Non duck count:"<<ani_ct - ct<<endl;  
+   cout<<"Animal count:    "<<ani_ct<<endl; 
+   cout<<"Duck count:      "<<ct<<endl;
+   cout<<"Non duck count:  "<<ani_ct - ct<<endl;  
 
  }
