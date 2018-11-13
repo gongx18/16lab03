@@ -11,7 +11,6 @@ int main() {
     for (int i=n; i>0; i--) {
        cout << i << " ";
     }
-    cout << "/n";
     return 0;
 }
 
